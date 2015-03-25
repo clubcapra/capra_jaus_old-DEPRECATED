@@ -1,0 +1,5 @@
+uint8 PresenceVector
+uint8 RequestID
+uint8 ResponseCode
+uint16 ConfirmedPeriodicRate
+string ErrorMessage

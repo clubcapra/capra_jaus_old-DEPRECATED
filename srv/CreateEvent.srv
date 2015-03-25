@@ -1,0 +1,6 @@
+uint8 RequestID
+uint8 EventType
+uint16 RequestedPeriodicRate
+uint32 RequestMessage
+---
+Event response

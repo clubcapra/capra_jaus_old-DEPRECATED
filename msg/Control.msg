@@ -1,0 +1,4 @@
+uint16 SubsystemID
+uint8 NodeID
+uint8 ComponentID
+Authority Authority
